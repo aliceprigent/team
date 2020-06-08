@@ -6,6 +6,7 @@ body {
     flex-wrap: wrap;
     width: 500px;
     margin: auto;
+    text-align: center;
 }
 
 img {
